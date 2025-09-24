@@ -1,8 +1,3 @@
-Here's a clean and professional `README.md` for your email extraction script, ready for GitHub:
-
----
-
-````markdown
 # 📧 Email Extractor GUI
 
 A lightweight Python desktop application to **extract email addresses** from any block of text, with easy formatting and one-click clipboard copy.
