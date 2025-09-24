@@ -23,7 +23,7 @@ Inspired by the need to quickly extract emails from marketing lists, customer ex
 
 ## 🖥️ Screenshot
 
-*(You can insert a screenshot here after running the app)*
+<img width="802" height="728" alt="image" src="https://github.com/user-attachments/assets/b9c7e15d-9373-45df-bf9c-5ceca274650f" />
 
 ---
 
